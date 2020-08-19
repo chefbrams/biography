@@ -1,0 +1,33 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+   border-top-style: solid;
+    border-top-width: 15px;
+    border-top-color: lightgreen;
+  }
+.body {
+ background-image: url("greyimage.jpg") ;
+  /* background-color: lightgray; */
+ background-size: cover;
+  /* padding-bottom: 100%; */
+  /* border-top-style: solid; */
+  /* border-top-width: 20px; */
+  /* border-top-color: lightgrey; */
+}
+  .box {
+    background-color: white;
+    margin-top: 15px;
+    
+  }
+.page-header {
+text-align: center;
+font-weight: bold; 
+font-size:large ;
+color: lightblue;
+background-color: salmon;
+}
