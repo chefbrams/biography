@@ -24,14 +24,10 @@
     background-color: white;
     margin-top: 15px;
     padding-bottom: 5%;
+    
+    
   }
-.page-header {
-text-align: center;
-font-weight: bold; 
-font-size:large ;
-color: lightblue;
-background-color: salmon;
-} 
+
 h1 {
 font-weight: bold;
 color: aqua;
@@ -40,4 +36,9 @@ border-bottom: 1px solid black;
 }
 .footer{
   color: rgb(223, 205, 212);
+}
+.navbar-brand{
+
+background-color: rgb(224, 28, 93);
+
 }
