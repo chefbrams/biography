@@ -1,3 +1,4 @@
+/* sticky footer */
 .footer {
     position: fixed;
     left: 0;
@@ -9,9 +10,10 @@
    border-top-style: solid;
     border-top-width: 15px;
     border-top-color: lightgreen;
-
+    color: rgb(223, 205, 212);
   }
-.body {
+/* background image */
+  .body {
  background-image: url("greyimage.jpg") ;
   /* background-color: lightgray; */
  background-size: cover;
@@ -20,25 +22,27 @@
   /* border-top-width: 20px; */
   /* border-top-color: lightgrey; */
 }
-  .box {
+ /*card  */
+.box {
     background-color: white;
     margin-top: 15px;
     padding-bottom: 5%;
-    
-    
-  }
-
+}
+/* about me */
 h1 {
 font-weight: bold;
 color: aqua;
 border-bottom: 1px solid black;
+}
 
-}
-.footer{
-  color: rgb(223, 205, 212);
-}
 .navbar-brand{
 
 background-color: rgb(224, 28, 93);
 
 }
+/* my interests */
+h2{
+  color: forestgreen;
+
+}
+
